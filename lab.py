@@ -11,4 +11,4 @@ def factorial(n):
 
 if __name__ == "__main__":
     number = 5
-    print(f"The factorial of {number} is {factorial(number)}")
+    print(f"The factorial of {number} : {factorial(number)}")
